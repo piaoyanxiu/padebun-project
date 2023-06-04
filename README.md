@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @piaoyanxiu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 청년 창업가를 위한 상권 분석 기반 블루오션 지역 추천 서비스
+### 9조 한번해보조
 
-<!---
-piaoyanxiu/piaoyanxiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 목차
+1. 프로젝트 소개
+2. 사용한 데이터 소개
+3. 프로그램의 기능
+4. 실행결과
+5. 프로그램의 강점
+6. 프로그램 고려사항
+
+
+## 1. 프로젝트 소개
+타겟은 창업에 대한 경험과 자원이 부족한 상태로 가게를 오픈하고 싶은 청년창업가다. 업종을 먼저 선택하고 창업하려는 사람들은, 어느 지역이 나의 창업에 성공을 가져다줄지 결정하는 데 상권 분석 정보가 필요하다. 소상공인시장진흥공단의 무료 상권정보 사이트를 통해 각 지역마다 업종 수, 유동인구, 매출 등 상권에 대한 정보 파악이 가능하지만, 각 지역에 대한 정보를 일일이 찾아 비교해야 하며, 창업자마다 중요하게 생각하는 요소가 다른 점을 반영하지 못한 일방적인 정보 전달 형식으로 창업자들은 유의미한 정보를 간편하게 얻기 어렵다. 
+
+따라서 본 데이터 분석 프로젝트에서는 공공데이터를 활용해 서울시내 블루오션을 분석해 청년 창업가들에게 창업이 성공할 확률이 높은 최적의 조건을 가진 지역을 추천한다.
+
+
