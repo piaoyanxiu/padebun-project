@@ -62,11 +62,20 @@ matplotlib-venn               0.11.9
 
 ## 5. 프로그램 결과값 형태 및 시각화
 - 업종 필터링 단계: 업종 대분류 및 중분류 문자열
-- 블루오션 필터링 단계: 생활인구 및 동종업계 막대그래프, 블루오션 지수 상위 30개 행정동 데이터프레임
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/eebfe5b4-c28c-436a-aef4-c463f68f4b7f)
+- 블루오션 필터링 단계: 블루오션 지수 상위 30개 행정동 리스트
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/d7f831ac-ce78-4cd3-8e67-b06263719af0)
 - 가중치 함수 단계: 항목별 순위가 담긴 정수형 리스트
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/ab4fd561-e512-4a59-a6ae-c28a4474cbdd)
 - 점수화 함수 단계: 점수 상위 3개 행정동이 담긴 문자열 리스트
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/c27ae45f-0b1e-4396-a93f-b47b10419544)
+- 동종업계 및 생활인구수 시각화 단계: 상위 3개 동 생활인구수와 동종업계수를 표시한 막대그래프
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/1d84880b-88fc-4e9b-be73-22bf5d78deab)
 - 지도 시각화 단계: 상위 3개 행정동 지리적 위치 및 상가 개수 표시
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/c4ede778-3681-4d9a-873f-836d27f9cd8d)
 - 행정동 수치 시각화 단계: 상위 3개 행정동의 잠재소비자, 폐업률, 임대료, 매출을 표시한 4개의 서브플롯 막대그래프
+  ![image](https://github.com/piaoyanxiu/piaoyanxiu/assets/135508811/e39dd033-de87-4a2a-9c1c-4b357dab043a)
+
 
 
 
